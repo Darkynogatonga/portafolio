@@ -15,12 +15,22 @@ h2 {
     text-transform: uppercase;
 }
 
+h5 {
+    font-weight: 700;
+    color: grey;
+}
+
+
 .logo {
 height: 3.5rem;
 }
 
 .rosa {
     color: #dd2789;
+}
+
+.pink-bg {
+    background-color: #dd2789;
 }
 
 .cursivo {
@@ -37,6 +47,11 @@ height: 3.5rem;
 
 .separador{
     border-bottom: 2px solid grey;
+    margin-bottom: 2rem;
+
+}
+.separador-blanco{
+    border-bottom: 2px solid white;
     margin-bottom: 2rem;
 
 }
